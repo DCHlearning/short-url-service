@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🔗 ShortURL Pro — 短链接服务系统 (全栈集成版)
 
 [![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.4-brightgreen)](https://spring.io/)
@@ -8,11 +5,9 @@
 [![MySQL](https://img.shields.io/badge/Database-MySQL%208.0-orange)](https://www.mysql.com/)
 [![Vite](https://img.shields.io/badge/Build-Vite%206.0-646cff)](https://vitejs.dev/)
 
-> **浙江理工大学 - 数字化共享生产实践课程指导文档项目实现**
-> 
-> 本项目是一个完整的短链接服务系统，包含前端管理后台、功能演示页以及后端核心跳转逻辑。实现了从长链接到唯一短码的映射、302重定向、数据统计及防重复提交等功能。
+ **浙江理工大学 - 数字化共享生产实践课程指导文档项目实现**
 
----
+本项目是一个完整的短链接服务系统，包含前端管理后台、功能演示页以及后端核心跳转逻辑。实现了从长链接到唯一短码的映射、302重定向、数据统计及防重复提交等功能。
 
 ## 📺 功能演示清单
 
@@ -106,6 +101,4 @@ ShortURL-Pro/
 - **课程**: 数字化共享生产实践 (ZSTU)
 - **实现**: ShortURL Pro 课题组
 
----
-© 2026 项目组版权所有。
-```
+
